@@ -1,16 +1,32 @@
-## Hi there 👋
+# Glenda Delenstarr, PhD
 
-<!--
-**gdelenstarr/gdelenstarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analytics Portfolio
 
-Here are some ideas to get you started:
+**Performance Analytics | Program Evaluation | Data Quality | Decision Support**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*I turn messy data into usable decision tools.*
+
+I specialize in building clear, reliable analytical resources for complex and regulated environments, with an emphasis on trustworthy metrics, data validation, reproducible workflows, and decision support.
+
+## Featured Project
+
+### Audit-Ready Excel Data Cleaning & Reporting Workflow
+
+An architecture-first Excel project demonstrating a structured, reproducible approach to:
+
+- data cleaning and normalization
+- data quality validation
+- source traceability and reconciliation
+- categorical profiling
+- derived metric evaluation
+- pivot analysis and decision-ready reporting
+
+**[View the Excel Data Quality & Reporting project](https://github.com/gdelenstarr/grocery-data-qc-analysis)**
+
+## My Approach
+
+**Validate before analyzing. • Build for reuse. • Design for reproducibility.**
+
+## Connect
+
+**[LinkedIn](https://www.linkedin.com/in/glenda-delenstarr/)** 

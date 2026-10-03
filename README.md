@@ -29,4 +29,4 @@ An architecture-first Excel project demonstrating a structured, reproducible app
 
 ## Connect
 
-**[LinkedIn](https://www.linkedin.com/in/glenda-delenstarr/)** 
+**[Résumé](Glenda_Delenstarr_Resume.pdf)** | **[LinkedIn](https://www.linkedin.com/in/glenda-delenstarr/)**
